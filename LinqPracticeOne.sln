@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqPracticeOne", "LinqPracticeOne\LinqPracticeOne.csproj", "{6CA1B9F4-A786-459A-BE4D-EF14B7DEF95A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqPracticeTwo", "LinqPracticeTwo\LinqPracticeTwo.csproj", "{26E7B6DF-DE4F-4898-A1C3-1932C2A4EF99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6CA1B9F4-A786-459A-BE4D-EF14B7DEF95A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CA1B9F4-A786-459A-BE4D-EF14B7DEF95A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CA1B9F4-A786-459A-BE4D-EF14B7DEF95A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26E7B6DF-DE4F-4898-A1C3-1932C2A4EF99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E7B6DF-DE4F-4898-A1C3-1932C2A4EF99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E7B6DF-DE4F-4898-A1C3-1932C2A4EF99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E7B6DF-DE4F-4898-A1C3-1932C2A4EF99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
